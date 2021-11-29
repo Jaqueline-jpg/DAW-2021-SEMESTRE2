@@ -1,0 +1,19 @@
+{
+  "name": "daw-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaqueline-jpg/DAW-2021.git"
+  },
+  "author": "Jaqueline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaqueline-jpg/DAW-2021/issues"
+  },
+  "homepage": "https://github.com/Jaqueline-jpg/DAW-2021#readme"
+}
